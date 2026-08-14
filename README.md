@@ -7,6 +7,7 @@ A curated collection of high-impact AI prompts for real-world use cases.
 | File | Description |
 |------|-------------|
 | [job-application-prompts.md](job-application-prompts.md) | 10 prompts to decode JDs, tailor CVs, prep for interviews, and build a full application pack |
+| [interview-question-bank-prompts.md](interview-question-bank-prompts.md) | Build a company-specific Staff-level interview question bank, then drill it in tough-interviewer mode |
 
 ---
 
